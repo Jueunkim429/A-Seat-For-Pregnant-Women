@@ -43,6 +43,9 @@ const Home = () => {
         &nbsp;
       </div>
     </div>
+    <div>
+      입구
+    </div>
     
 
 
